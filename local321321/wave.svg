@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="2172.0249"
+   height="204"
+   viewBox="0 0 2172.0249 204.00001"
+   sodipodi:docname="wave.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13">
+    <rect
+       x="-18.973718"
+       y="-614.0585"
+       width="1566.1941"
+       height="319.10343"
+       id="rect854" />
+    <rect
+       x="18.973718"
+       y="-627.85756"
+       width="1626.5651"
+       height="186.28741"
+       id="rect848" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect929"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect925"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect921"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect239"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.57974933"
+     inkscape:cx="714.96417"
+     inkscape:cy="-187.14985"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15"
+     inkscape:pageshadow="2" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g15">
+    <path
+       style="fill:#000000;stroke-width:3.39223"
+       id="path177"
+       d="" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.8441;stroke-dasharray:none;stroke-opacity:1"
+       d="M 861.1364,267.63224 -63.363439,278.1743 0.05975248,140.3121 V 73.19116 L 3.963018,72.350102 C 6.1098147,71.887525 20.35674,67.886217 35.622847,63.458321 303.29482,-14.179266 615.1238,-21.603332 940.31334,41.919325 c 68.40366,13.362012 112.40236,23.901121 214.73796,51.436819 111.8387,30.092666 146.8503,36.067906 264.0629,45.065966 25.2844,1.94102 65.8783,5.62786 90.2086,8.19299 41.695,4.39586 48.9724,4.66093 126.6393,4.61261 95.956,-0.0597 194.9293,-4.46286 272.3614,-12.11695 83.5652,-8.26033 179.7489,-13.5449 245.9819,-52.243632 l 18.6965,-13.299091 -0.991,43.078643 c -0.4427,19.24397 -0.513,47.93979 -1.1398,63.75719 l -1.14,82.42468 -227.4179,9.32759 c -124.9752,5.12589 -609.6277,-9.90097 -1081.1768,-4.5239 z"
+       id="path1795"
+       sodipodi:nodetypes="scccssssssssscsscss" />
+    <text
+       xml:space="preserve"
+       id="text846"
+       style="fill:#e3dbdb;stroke-width:8;white-space:pre;shape-inside:url(#rect848)" />
+    <text
+       xml:space="preserve"
+       id="text852"
+       style="font-size:192px;white-space:pre;shape-inside:url(#rect854);fill:#f6f6f6;fill-opacity:1;stroke-width:8"
+       transform="matrix(0.81613454,0,0,0.81613454,108.31234,538.90978)"><tspan
+         x="-18.974609"
+         y="-444.18359"
+         id="tspan3743">7.2PRACTIKA</tspan></text>
+  </g>
+</svg>
